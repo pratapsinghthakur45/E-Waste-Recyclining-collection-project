@@ -1,1 +1,2 @@
 # E-Waste-Recyclining-collection-project
+The E-Waste Recycling Collection Project is a digital platform that promotes responsible disposal of electronic waste. It allows users to schedule pickups, locate nearby recycling centers, and track e-waste contributions. The project aims to reduce environmental pollution by encouraging safe and efficient recycling of discarded electronic devices and components.
